@@ -1,0 +1,6 @@
+COMMENT: DL mode generating some deployments.
+MODE: DL
+NUM_GENERALS: 5
+NUM_PLANETS: 3
+0 SITH G1 P0 F81 #111
+1 JEDI G1 P0 F92 #151
